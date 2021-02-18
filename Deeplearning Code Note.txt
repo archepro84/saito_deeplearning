@@ -1,0 +1,2 @@
+Numpy.astype(<Numpy.Type>) : 넘파이 배열의 자료형을 변환
+Numpy.arange(Start, End, len) : Start 에서 End전까지 len 간격의 Numpy.array를 생성
