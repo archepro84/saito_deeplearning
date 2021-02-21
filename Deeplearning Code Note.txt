@@ -10,3 +10,8 @@ Numpy.dot(A, B) : 1차원 배열이면 벡터를, 2차원 배열이면 행렬의
  - dot : Scalar product(스칼라곱)를 뜻하며 dot product(점곱)이라고도 한다.
 
 Numpy.exp() : 지수 함수
+
+Numpy.random.choice(Size, selected_size) : 0 ~ Size 미만의 수 중에서 무작위로 Seleted_size개를 골라냄
+
+Numpy.arange(Size) : Size 크기만큼 Numpy.array를 생성한다
+ ex) Numpy.arange(5) : Numpy.array([0,1,2,3,4])
