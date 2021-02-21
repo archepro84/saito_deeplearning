@@ -1,2 +1,12 @@
 Numpy.astype(<Numpy.Type>) : 넘파이 배열의 자료형을 변환
+
 Numpy.arange(Start, End, len) : Start 에서 End전까지 len 간격의 Numpy.array를 생성
+
+Numpy.ndim() : 배열의 차원수 반환
+
+Numpy.shape() :배열의 형상 확인 (Tuple로 반환)
+
+Numpy.dot(A, B) : 1차원 배열이면 벡터를, 2차원 배열이면 행렬의 곱을 계산
+ - dot : Scalar product(스칼라곱)를 뜻하며 dot product(점곱)이라고도 한다.
+
+Numpy.exp() : 지수 함수
